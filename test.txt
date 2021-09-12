@@ -1,1 +1,3 @@
 New File
+
+Second line of file on a second branch
